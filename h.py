@@ -1,5 +1,6 @@
-print ("hello word")
+print ("START")
+
 a = "hello"
 b = "word"
 
-print (a + b)
+print (a + " " + b)
